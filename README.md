@@ -18,14 +18,14 @@ Setup
 
 Pages
 ------
-Go to Blog Home     -   http://localhost:8082
-Signup              -   http://localhost:8082/signup
-Login               -   http://localhost:8082/login
-Logout              -   http://localhost:8082/logout
-Create New Post     -   http://localhost:8082/newpost
+1. Go to Blog Home     -   http://localhost:8082
+2. Signup              -   http://localhost:8082/signup
+3. Login               -   http://localhost:8082/login
+4. Logout              -   http://localhost:8082/logout
+5. Create New Post     -   http://localhost:8082/newpost
 
 Operations
 -----------
-Open a post
-Add a comment
-Like a comment
+1. Open a post
+2. Add a comment
+3. Like a comment
